@@ -1,2 +1,2 @@
 # RoomTutorialTest
-Projeto para consolidar conhecimentos na utilização do Retorfit
+Projeto para consolidar conhecimentos na utilização do Room
